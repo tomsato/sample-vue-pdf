@@ -1,5 +1,11 @@
 # sample-vue-pdf
 
+##
+
+vue-pdfを使ったサンプルアプリケーション
+
+参考：[vue-pdfを使ってNuxt.jsでPDFスライドを表示させる](http://simple-it-life.com/2021/02/19/vue-pdf/)
+
 ## Build Setup
 
 ```bash
